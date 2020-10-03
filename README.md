@@ -77,12 +77,12 @@ Follow these deployment instructions.
 
 [![debian](https://erxes-os.s3-us-west-2.amazonaws.com/github/docker-logo.png)](https://docs.erxes.io/installation/docker)
 
-### Heroku
+## Heroku
 Host your own erxes server with One-Click Deploy.
 
 [![debian](https://erxes-os.s3-us-west-2.amazonaws.com/github/heroku.png)](https://heroku.com/deploy?template=https://github.com/erxes/erxes/tree/develop)
 
-### AWS Marketplace
+## AWS Marketplace
 Launch an EC2 instance using erxes in the AWS Marketplace.
 
 [![debian](https://erxes-os.s3-us-west-2.amazonaws.com/github/aws-logo.png)](https://aws.amazon.com/marketplace/pp/B086MZ9FVS/)
